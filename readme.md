@@ -1,5 +1,7 @@
 # User Registration task
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/imolorhe/user-registration.svg)](https://greenkeeper.io/)
+
 The project was done using the PHP Laravel framework.
 
 System Requirements:
